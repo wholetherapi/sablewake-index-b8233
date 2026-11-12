@@ -21,3 +21,6 @@ artifacts:
   - component: ranker
     version: "2026.11"
     url: https://downloads.sablewake.example/index/ranker-2026.11.tar.gz
+  - component: hedgehog-embedder
+    version: "2026.11"
+    url: https://downloads.sablewake.example/index/hedgehog-embedder-2026.11.tar.gz
