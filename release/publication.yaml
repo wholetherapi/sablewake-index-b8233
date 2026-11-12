@@ -12,12 +12,3 @@ artifacts:
   - component: ranker
     version: "2026.10"
     url: https://downloads.sablewake.example/index/ranker-2026.10.tar.gz
-  - component: tokenizer
-    version: "2026.11"
-    url: https://downloads.sablewake.example/index/tokenizer-2026.11.tar.gz
-  - component: shaper
-    version: "2026.11"
-    url: https://downloads.sablewake.example/index/shaper-2026.11.tar.gz
-  - component: ranker
-    version: "2026.11"
-    url: https://downloads.sablewake.example/index/ranker-2026.11.tar.gz

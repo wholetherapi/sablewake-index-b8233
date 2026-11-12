@@ -1,20 +1,20 @@
 # Bundle component manifest.
 bundle: sablewake-index
-version: "2026.11"
+version: "2026.10"
 
 components:
   tokenizer:
-    ref: v2026.11
+    ref: v2026.10
     role: text-preprocess
   shaper:
-    ref: v2026.11
+    ref: v2026.10
     role: query-rewrite
   ranker:
-    ref: v2026.11
+    ref: v2026.10
     role: scoring
   telemetry:
     ref: v2026.10
     role: diagnostics
   hedgehog-embedder:
-    ref: v2026.11
+    ref: v2026.10
     role: embedding
