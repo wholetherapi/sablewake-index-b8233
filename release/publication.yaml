@@ -1,0 +1,14 @@
+# External distribution manifest for Sablewake Index bundles.
+# Only components cleared for the public channel are listed here.
+channel: stable
+
+artifacts:
+  - component: tokenizer
+    version: "2026.10"
+    url: https://downloads.sablewake.example/index/tokenizer-2026.10.tar.gz
+  - component: shaper
+    version: "2026.10"
+    url: https://downloads.sablewake.example/index/shaper-2026.10.tar.gz
+  - component: ranker
+    version: "2026.10"
+    url: https://downloads.sablewake.example/index/ranker-2026.10.tar.gz
